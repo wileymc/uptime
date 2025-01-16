@@ -1,22 +1,22 @@
 {
   "https://api.populist.us": {
     "endpoint": "https://api.populist.us",
-    "total_checks": 6,
-    "successful_checks": 6,
+    "total_checks": 23,
+    "successful_checks": 23,
     "failed_checks": 0,
     "total_downtime": 0,
-    "last_check": "2025-01-16T23:09:33.403349524Z",
+    "last_check": "2025-01-16T23:18:12.406371352Z",
     "last_status": "up",
-    "average_response_time": 0.13500475599999998
+    "average_response_time": 0.12352946526086957
   },
   "https://api.staging.populist.us": {
     "endpoint": "https://api.staging.populist.us",
-    "total_checks": 6,
-    "successful_checks": 6,
+    "total_checks": 23,
+    "successful_checks": 23,
     "failed_checks": 0,
     "total_downtime": 0,
-    "last_check": "2025-01-16T23:09:33.513178717Z",
+    "last_check": "2025-01-16T23:18:12.514159506Z",
     "last_status": "up",
-    "average_response_time": 0.131082433
+    "average_response_time": 0.3351405147826087
   }
 }
