@@ -1,0 +1,22 @@
+{
+  "https://api.populist.us": {
+    "endpoint": "https://api.populist.us",
+    "total_checks": 6,
+    "successful_checks": 6,
+    "failed_checks": 0,
+    "total_downtime": 0,
+    "last_check": "2025-01-16T23:09:33.403349524Z",
+    "last_status": "up",
+    "average_response_time": 0.13500475599999998
+  },
+  "https://api.staging.populist.us": {
+    "endpoint": "https://api.staging.populist.us",
+    "total_checks": 6,
+    "successful_checks": 6,
+    "failed_checks": 0,
+    "total_downtime": 0,
+    "last_check": "2025-01-16T23:09:33.513178717Z",
+    "last_status": "up",
+    "average_response_time": 0.131082433
+  }
+}
